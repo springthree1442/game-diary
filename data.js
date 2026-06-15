@@ -1,25 +1,25 @@
 const gameData = {
   profile: {
-    title: "황혼과 새벽을 잇는 물결",
-    subtitle: "알파와 베타, 두 조직의 균열에 관한 기록",
+    title: "백야: 일몰과 일출 사이",
+    subtitle: "당신은 다음으로 향하는 길을 찾을 수 있습니까?",
     introduction:
-      "두 조직의 대립과 공조 속에서 숨겨진 계획을 추적하는 비주얼노벨 설정 기록 페이지입니다."
+      "행토&둘기&전다 OC 알지비 세계관 개변 2차 팬게임 설정 기록용 테스트 페이지입니다."
   },
 
   characters: [
     {
-      name: "조직원 y",
-      organization: "알파",
-      role: "사업장 g 소속 조직원",
-      description: "가족을 부양하고 있으며 피카로와 대학 시절부터 친분이 있다.",
-      tags: ["알파", "주요 인물"]
+      name: "사수 z",
+      organization: "새벽",
+      role: "집행관",
+      description: "플레이어의 직속 상사. 현재 Gambit Rouge의 운영 책임을 맡았으며, 진급을 앞두고 있다.",
+      tags: ["얼룩말"]
     },
     {
-      name: "피카로",
-      organization: "베타",
-      role: "베타 핵심 인물",
-      description: "베타 보스의 등극에 기여한 인물. 조직원 y와 과거부터 알고 지냈다.",
-      tags: ["베타", "핵심 인물"]
+      name: "플롯",
+      organization: "새벽",
+      role: "일반 조직원",
+      description: "새벽에서 에이스로 불리고 있는 통칭 조직원 y. 신입이라는 직위에 비해 신임을 받고있다.",
+      tags: ["에이스", "조력자"]
     },
     {
       name: "간부 h",
