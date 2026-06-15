@@ -23,8 +23,16 @@ body {
 .hero {
   min-height: 280px;
   background:
-  linear-gradient(135deg, rgba(47, 63, 120, .55), rgba(32, 74, 55, .50)),
-  radial-gradient(circle at top right, rgba(255,255,255,.18), transparent 35%);
+    radial-gradient(
+      circle at top right,
+      rgba(255, 255, 255, 0.18),
+      transparent 40%
+    ),
+    linear-gradient(
+      135deg,
+      rgb(65, 83, 145),
+      rgb(53, 105, 75)
+    );
   border-bottom: 1px solid var(--line);
 }
 
