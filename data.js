@@ -34,9 +34,9 @@ const gameData = {
     {
       act: "Act.1 균열",
       chapter: "Chapter.1 조명이 밝은 밤",
-      status: "작성 중",
-      summary: "사업장 g의 영업 도중 정전과 서버 장애가 발생한다.",
-      updated: "2026-06-15"
+      status: "업데이트 중",
+      summary: "추후 공개 예정",
+      updated: "언젠가 함"
     },
     {
       act: "Act.1 균열",
